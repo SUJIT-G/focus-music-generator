@@ -18,5 +18,5 @@ A minimalist dark-blue themed **Focus Music Generator** that helps users boost c
 ## 📦 How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/focus-music-generator.git
+   preview the app https://sujit-g.github.io/focus-music-generator/
    
